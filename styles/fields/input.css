@@ -5,6 +5,7 @@ input, textarea, select{
     border: 1px solid var(--stroke-default);
     padding: .75rem 1rem;
     font: var(--text);
+    resize: none;
 }
 
 label{
